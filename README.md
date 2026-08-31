@@ -1,10 +1,10 @@
 # 📚 AI Library Books Recommendation System
 
-An intelligent book recommendation system powered by Artificial Intelligence and Machine Learning to help library users discover books tailored to their interests, reading history, and preferences.
+An intelligent books recommendation system powered by Artificial Intelligence and Machine Learning to help library users discover books tailored to their interests, reading history, and preferences.
 
 ---
 
-## 🚀 Features
+## 🚀 Features and functions
 
 - **Personalized Recommendations:** Suggests books based on user reading preferences, genres, and past interactions.
 - **Smart Filtering:** Utilizes content-based and/or collaborative filtering techniques to match readers with relevant titles.
