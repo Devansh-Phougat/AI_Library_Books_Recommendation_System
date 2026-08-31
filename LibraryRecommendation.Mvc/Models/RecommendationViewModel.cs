@@ -1,0 +1,38 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace LibraryRecommendation.Mvc.Models;
+
+public class RecommendationViewModel
+{
+    public int Id { get; set; }
+
+    [Required]
+    [StringLength(200)]
+    public string Title { get; set; } = string.Empty;
+
+    [Required]
+    [StringLength(150)]
+    public string Author { get; set; } = string.Empty;
+
+    [Required]
+    [StringLength(100)]
+    public string Genre { get; set; } = string.Empty;
+
+    [Required]
+    [StringLength(2000)]
+    [DataType(DataType.MultilineText)]
+    public string Description { get; set; } = string.Empty;
+
+    [Range(0.0, 5.0)]
+    public double Rating { get; set; }
+
+    [Range(1000, 2100)]
+    [Display(Name = "Published Year")]
+    public int PublishedYear { get; set; }
+
+    [Display(Name = "Similarity Score")]
+    public double SimilarityScore { get; set; }
+
+    [Display(Name = "Matching Terms")]
+    public string[] MatchingTerms { get; set; } = Array.Empty<string>();
+}

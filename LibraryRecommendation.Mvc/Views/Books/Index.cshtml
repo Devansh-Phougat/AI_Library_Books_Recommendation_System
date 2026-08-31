@@ -1,0 +1,89 @@
+@model IEnumerable<BookViewModel>
+@{
+    ViewData["Title"] = "Books";
+    var genres = ViewBag.Genres as List<string> ?? new List<string>();
+    var selectedGenre = ViewBag.SelectedGenre as string ?? string.Empty;
+    var categories = ViewBag.Categories as string[] ?? Array.Empty<string>();
+    var selectedCategory = ViewBag.SelectedCategory as string ?? string.Empty;
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="h2 mb-0">Books</h1>
+    <a asp-action="Create" class="btn btn-primary">Add a book</a>
+</div>
+
+<form asp-action="FilterByGenre" method="get" class="row g-2 align-items-end mb-4">
+    <div class="col-auto">
+        <label for="category" class="form-label">Category</label>
+        <select name="category" id="category" class="form-select">
+            <option value="">All categories</option>
+            @foreach (var category in categories)
+            {
+                <option value="@category" selected="@(category == selectedCategory)">@category</option>
+            }
+        </select>
+    </div>
+    <div class="col-auto">
+        <label for="genre" class="form-label">Genre</label>
+        <select name="genre" id="genre" class="form-select">
+            <option value="">All genres</option>
+            @foreach (var genre in genres)
+            {
+                <option value="@genre" selected="@(genre == selectedGenre)">@genre</option>
+            }
+        </select>
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-outline-primary">Filter</button>
+    </div>
+    @if (!string.IsNullOrEmpty(selectedGenre) || !string.IsNullOrEmpty(selectedCategory))
+    {
+        <div class="col-auto">
+            <a asp-action="Index" class="btn btn-outline-secondary">Clear</a>
+        </div>
+    }
+</form>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No books to show.</div>
+}
+else
+{
+    <p class="text-muted">
+        @Model.Count() book(s)@(string.IsNullOrEmpty(selectedCategory) ? "" : $" in {selectedCategory}")@(string.IsNullOrEmpty(selectedGenre) ? "" : $" · {selectedGenre}").
+    </p>
+    <div class="table-responsive">
+        <table class="table table-striped align-middle">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Category</th>
+                    <th>Genre</th>
+                    <th class="text-end">Rating</th>
+                    <th class="text-end">Published</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td><a asp-action="Details" asp-route-id="@book.Id">@book.Title</a></td>
+                        <td>@book.Author</td>
+                        <td><span class="badge text-bg-primary">@book.Category</span></td>
+                        <td><span class="badge text-bg-secondary">@book.Genre</span></td>
+                        <td class="text-end">@(book.Rating > 0 ? book.Rating.ToString("0.0") : "—")</td>
+                        <td class="text-end">@book.PublishedYear</td>
+                        <td class="text-end text-nowrap">
+                            <a asp-action="Details" asp-route-id="@book.Id" class="btn btn-sm btn-outline-secondary">Details</a>
+                            <a asp-action="Edit" asp-route-id="@book.Id" class="btn btn-sm btn-outline-primary">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@book.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

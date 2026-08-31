@@ -1,0 +1,195 @@
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\appsettings.Development.json
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\appsettings.json
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.staticwebassets.runtime.json
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.staticwebassets.endpoints.json
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.exe
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.deps.json
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.runtimeconfig.json
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.dll
+G:\New folder (13)\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.pdb
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\rpswa.dswa.cache.json
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.AssemblyInfoInputs.cache
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.AssemblyInfo.cs
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.csproj.CoreCompileInputs.cache
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.MvcApplicationPartsAssemblyInfo.cache
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.RazorAssemblyInfo.cache
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.RazorAssemblyInfo.cs
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\rjimswa.dswa.cache.json
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\scopedcss\bundle\LibraryRecommendation.Mvc.styles.css
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\scopedcss\projectbundle\LibraryRecommendation.Mvc.bundle.scp.css
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\bj62k7t6lp-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\k58vagji56-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\yi76jbezqd-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\zcypntp5if-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\yjsd1mkzcs-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\5sx1v90nv0-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\29f4o4ndfp-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\0ek8zmy2q7-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\5kvlhipnmn-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\7ngwak2d5o-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ft9ds1ek2c-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\707tqge65l-{0}-ub07r2b239-ub07r2b239.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\yp71kjhtq5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\try75yxiil-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\fyh8jyhlyf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\1ted2ylg0s-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\cnwsquv7uu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ppk7d7h8ev-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\y2n8ojxj27-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\af4owkifqb-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\n4gyug4rel-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ojeqbot7rs-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\lqibqljh9a-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\7ea7b3p9sh-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\vvjwwejrln-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\d1ruibmhz7-{0}-06098lyss8-06098lyss8.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\q5e3hgmbxt-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\wb8a1p0w7u-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\xapkvohlkc-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\5but9a6zmy-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\0y2bwxjv56-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ov3m017u6o-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\2c2ig787j7-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\bxh2zl9acw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\3xwqt4ilcm-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\qf8w5bwbuv-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\u4yxo2cib5-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\vci06og7n2-{0}-493y06b0oq-493y06b0oq.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ppsti5jmru-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\cvffq57qc3-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ceexk1hq2e-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\omnmcd3x6h-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\7mn5nxjpr7-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\yun1ptvc9b-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\7n13jc4mzq-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\u4oe14jftd-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\qb6a94czza-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\3evl6qefa2-{0}-47otxtyo56-47otxtyo56.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\g3v6wgow37-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\nv27mvf2c6-{0}-356vix0kms-356vix0kms.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\jjq2qn4pq3-{0}-83jwlth58m-83jwlth58m.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\97ivx824zk-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\527poy8p3x-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\k6ypsxsv76-{0}-ag7o75518u-ag7o75518u.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\tkq5jqbblw-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\e1vg9btmt1-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\rh996b6egu-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\3s0x1y26sn-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ugt2wx9oc5-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\iymlgf4dmx-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\hrzzem100j-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\dqk5q841l1-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\u0jsh1u8ju-{0}-mqvkzounrj-mqvkzounrj.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\5q1bgzvko0-{0}-mqvkzounrj-mqvkzounrj.gz
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\staticwebassets.build.json
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\staticwebassets.build.json.cache
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\staticwebassets.development.json
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\swae.build.ex.cache
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.dll
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\refint\LibraryRecommendation.Mvc.dll
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.pdb
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.genruntimeconfig.cache
+G:\New folder (13)\LibraryRecommendation.Mvc\obj\Debug\net10.0\ref\LibraryRecommendation.Mvc.dll
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\appsettings.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.exe
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.deps.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.dll
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\bin\Debug\net10.0\LibraryRecommendation.Mvc.pdb
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.sourcelink.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\scopedcss\bundle\LibraryRecommendation.Mvc.styles.css
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\scopedcss\projectbundle\LibraryRecommendation.Mvc.bundle.scp.css
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\bj62k7t6lp-{0}-lugek5hnai-lugek5hnai.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\k58vagji56-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\yi76jbezqd-{0}-fr7q2aak1r-fr7q2aak1r.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\zcypntp5if-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\yjsd1mkzcs-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\5sx1v90nv0-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\29f4o4ndfp-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\0ek8zmy2q7-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\5kvlhipnmn-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\7ngwak2d5o-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ft9ds1ek2c-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\707tqge65l-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\yp71kjhtq5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\try75yxiil-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\fyh8jyhlyf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\1ted2ylg0s-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\cnwsquv7uu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ppk7d7h8ev-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\y2n8ojxj27-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\af4owkifqb-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\n4gyug4rel-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ojeqbot7rs-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\lqibqljh9a-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\7ea7b3p9sh-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\vvjwwejrln-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\d1ruibmhz7-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\q5e3hgmbxt-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\wb8a1p0w7u-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\xapkvohlkc-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\5but9a6zmy-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\0y2bwxjv56-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ov3m017u6o-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\2c2ig787j7-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\bxh2zl9acw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\3xwqt4ilcm-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\qf8w5bwbuv-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\u4yxo2cib5-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\vci06og7n2-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ppsti5jmru-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\cvffq57qc3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ceexk1hq2e-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\omnmcd3x6h-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\7mn5nxjpr7-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\yun1ptvc9b-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\7n13jc4mzq-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\u4oe14jftd-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\qb6a94czza-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\3evl6qefa2-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\g3v6wgow37-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\nv27mvf2c6-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\jjq2qn4pq3-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\97ivx824zk-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\527poy8p3x-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\k6ypsxsv76-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\tkq5jqbblw-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\e1vg9btmt1-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\rh996b6egu-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\3s0x1y26sn-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\ugt2wx9oc5-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\iymlgf4dmx-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\hrzzem100j-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\dqk5q841l1-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\u0jsh1u8ju-{0}-mqvkzounrj-mqvkzounrj.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\compressed\5q1bgzvko0-{0}-mqvkzounrj-mqvkzounrj.gz
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.dll
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\refint\LibraryRecommendation.Mvc.dll
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.pdb
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\LibraryRecommendation.Mvc.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\AI book recomendation system\ai_lib-main\ai_lib-main\LibraryRecommendation.Mvc\obj\Debug\net10.0\ref\LibraryRecommendation.Mvc.dll

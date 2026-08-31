@@ -1,0 +1,81 @@
+@model BookViewModel
+@{
+    ViewData["Title"] = Model.Title;
+    var recommendations = ViewBag.Recommendations as List<RecommendationViewModel> ?? new List<RecommendationViewModel>();
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-action="Index">Books</a></li>
+        <li class="breadcrumb-item active" aria-current="page">@Model.Title</li>
+    </ol>
+</nav>
+
+<div class="card mb-4">
+    <div class="card-body">
+        <h1 class="card-title h3">@Model.Title</h1>
+        <h2 class="card-subtitle h6 text-muted mb-3">@Model.Author</h2>
+
+        <p>
+            <span class="badge text-bg-primary">@Model.Category</span>
+            <span class="badge text-bg-secondary">@Model.Genre</span>
+            <span class="badge text-bg-light">
+                @(Model.Rating > 0 ? $"Rating {Model.Rating:0.0} / 5" : "Not rated")
+            </span>
+            <span class="badge text-bg-light">Published @Model.PublishedYear</span>
+        </p>
+
+        <p class="card-text">@Model.Description</p>
+
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+        <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-outline-danger">Delete</a>
+        <a asp-action="Index" class="btn btn-outline-secondary">Back to list</a>
+    </div>
+</div>
+
+<section>
+    <h2 class="h4 mb-1">Similar books</h2>
+    <p class="text-muted">
+        Scored against the <strong>@Model.Category</strong> collection only &mdash; recommendations
+        never cross between categories.
+    </p>
+
+    @if (!recommendations.Any())
+    {
+        <div class="alert alert-info">No recommendations are available for this book.</div>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-3">
+            @foreach (var recommendation in recommendations)
+            {
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body d-flex flex-column">
+                            <h3 class="card-title h6">
+                                <a asp-action="Details" asp-route-id="@recommendation.Id">@recommendation.Title</a>
+                            </h3>
+                            <h4 class="card-subtitle h6 text-muted mb-2">@recommendation.Author</h4>
+
+                            <p class="mb-2">
+                                <span class="badge text-bg-secondary">@recommendation.Genre</span>
+                                <span class="badge text-bg-success">@recommendation.SimilarityScore.ToString("P1") match</span>
+                            </p>
+
+                            @if (recommendation.MatchingTerms.Any())
+                            {
+                                <div class="mt-auto">
+                                    <p class="text-muted small mb-1">Matching terms</p>
+                                    @foreach (var term in recommendation.MatchingTerms)
+                                    {
+                                        <span class="badge rounded-pill text-bg-light border me-1">@term</span>
+                                    }
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</section>
